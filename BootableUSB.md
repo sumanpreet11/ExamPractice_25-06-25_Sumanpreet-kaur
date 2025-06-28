@@ -4,12 +4,11 @@
 
 Description:
 
-1. Download te windws ISO file from Microsoft's official website.
+1. Download the windows ISO file from Microsoft's official website.
 2. Insert a USB drive (at least 8GB)
-3.Open **Rufus**.
-Select the USB device.
-5. Choose the ISO file.
-6. Let the tool download and create the bootable drive.
+3. Open **Rufus**. Select the USB device.
+4. Choose the ISO file.
+5. Let the tool download and create the bootable drive.
 
 ** Tools **
 - Windows ISO file
